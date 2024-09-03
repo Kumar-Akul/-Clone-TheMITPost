@@ -1,4 +1,4 @@
-# notyourapp
+# A Clone Mobile Application of TheMitPost
 
 A new Flutter project.
 
